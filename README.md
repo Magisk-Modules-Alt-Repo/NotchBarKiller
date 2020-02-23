@@ -20,5 +20,9 @@ Allowing apps such as Instagram, Snapchat, and games to fill in that notched spa
 - [GitHub](https://github.com/Magisk-Modules-Repo/<to-be-filled>) 
 
 ## Changelog
+### v1.2
+- Update APK and file path
+### v1.1
+- Internal Test
 ### v1.0
 - Initial release
