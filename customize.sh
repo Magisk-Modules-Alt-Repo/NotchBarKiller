@@ -33,10 +33,11 @@ REPLACE_EXAMPLE="
 "
 
 # Construct your own list here
-#REPLACE=""
+REPLACE="
+"
 
 ##########################################################################################
-# Custom Logic
+# Permissions
 ##########################################################################################
 
 set_permissions() {
@@ -58,14 +59,13 @@ set_permissions() {
   # set_perm /data/local/tmp/file.txt 0 0 644
 }
 
-# Custom Variables for Install AND Uninstall - Keep everything within this function - runs before uninstall/install
-custom() {
-  ui_print "**************************"
-  ui_print " NotchBarKiller by itz63c "
-  ui_print "**************************"
-}
-
-# Custom Functions for Install AND Uninstall - You can put them here
+# Print module info
+ui_print ""
+ui_print "***************************************"
+ui_print " Installing NotchBarKiller $MODVERSION "
+ui_print "              by itz63c                "
+ui_print "***************************************"
+ui_print ""
 
 ##########################################################################################
 # MMT Extended Logic - Don't modify anything after this

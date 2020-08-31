@@ -1,6 +1,7 @@
-id=NBK
-name=Notch Bar Killer
-version=v1.2
-versionCode=1.2
+id=NotchBarKiller
+name=NotchBarKiller
+version=v1.3
+versionCode=1.3
 author=itz63c
 description=Disable Notch Detection on your notched devices.
+

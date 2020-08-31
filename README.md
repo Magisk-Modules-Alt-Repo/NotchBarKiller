@@ -8,18 +8,20 @@ Allowing apps such as Instagram, Snapchat, and games to fill in that notched spa
 
 ## Requirements
 - Android 9+
-- Magisk 19+
+- Magisk 20+
 
 ## Installation
 1. Flash this module.
 2. Reboot.
-3. Enable by selecting Notch Bar Killer in your device's cutout settings
+3. Enable by selecting NotchBarKiller in your device's cutout settings
 4. Enjoy!
 
 ## Links
-- [GitHub](https://github.com/Magisk-Modules-Repo/<to-be-filled>) 
+- [GitHub](https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller) 
 
 ## Changelog
+### v1.3
+- Update to MMT-Ex v1.5
 ### v1.2
 - Update APK and file path
 ### v1.1
